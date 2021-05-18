@@ -1,0 +1,5 @@
+1-) find midi file
+2-) delete unnecessary event from midi file with Midieditor
+3-) run to edited midi file with visual studio with program.cs
+4-) midi file convert to mp3 file 
+5-) mp3 file and parsed json file copy to unity

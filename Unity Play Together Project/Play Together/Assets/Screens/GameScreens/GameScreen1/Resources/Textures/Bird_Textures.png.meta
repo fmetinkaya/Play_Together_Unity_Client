@@ -1,0 +1,761 @@
+fileFormatVersion: 2
+guid: 86aed001c17bb544183974d963bc5af8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5003628964238269105
+    second: Mobile - Flappy Bird - Version 12 Sprites_0
+  - first:
+      213: -221491057933239876
+    second: Mobile - Flappy Bird - Version 12 Sprites_1
+  - first:
+      213: 7294014354058790825
+    second: Mobile - Flappy Bird - Version 12 Sprites_2
+  - first:
+      213: -514118242663219353
+    second: Mobile - Flappy Bird - Version 12 Sprites_3
+  - first:
+      213: -6830950117582225322
+    second: Mobile - Flappy Bird - Version 12 Sprites_4
+  - first:
+      213: -8998104236824694837
+    second: Mobile - Flappy Bird - Version 12 Sprites_5
+  - first:
+      213: 6124130483509997730
+    second: Mobile - Flappy Bird - Version 12 Sprites_6
+  - first:
+      213: 6297297506034485570
+    second: Mobile - Flappy Bird - Version 12 Sprites_7
+  - first:
+      213: 5897210807152635017
+    second: Mobile - Flappy Bird - Version 12 Sprites_8
+  - first:
+      213: -8672742685835622642
+    second: Mobile - Flappy Bird - Version 12 Sprites_9
+  - first:
+      213: 5521694834215240920
+    second: Mobile - Flappy Bird - Version 12 Sprites_10
+  - first:
+      213: -3400579567936777025
+    second: Mobile - Flappy Bird - Version 12 Sprites_11
+  - first:
+      213: 8433751597566169029
+    second: Mobile - Flappy Bird - Version 12 Sprites_12
+  - first:
+      213: 5955124824224392516
+    second: Mobile - Flappy Bird - Version 12 Sprites_13
+  - first:
+      213: 2037097137259322841
+    second: Mobile - Flappy Bird - Version 12 Sprites_14
+  - first:
+      213: 1399865248621217857
+    second: Mobile - Flappy Bird - Version 12 Sprites_15
+  - first:
+      213: 8181548382722186305
+    second: Mobile - Flappy Bird - Version 12 Sprites_16
+  - first:
+      213: -5322340071041531647
+    second: Mobile - Flappy Bird - Version 12 Sprites_17
+  - first:
+      213: -3459855430096573399
+    second: Mobile - Flappy Bird - Version 12 Sprites_18
+  - first:
+      213: 4649278624061740554
+    second: Mobile - Flappy Bird - Version 12 Sprites_19
+  - first:
+      213: 4229129803915167851
+    second: Mobile - Flappy Bird - Version 12 Sprites_20
+  - first:
+      213: 5755995480342360952
+    second: Mobile - Flappy Bird - Version 12 Sprites_21
+  - first:
+      213: -4201885668422426124
+    second: Mobile - Flappy Bird - Version 12 Sprites_22
+  - first:
+      213: 6739268201273843614
+    second: Mobile - Flappy Bird - Version 12 Sprites_23
+  - first:
+      213: -3575601747525333068
+    second: Mobile - Flappy Bird - Version 12 Sprites_24
+  - first:
+      213: 3829574321791597785
+    second: Mobile - Flappy Bird - Version 12 Sprites_25
+  - first:
+      213: -7673194365146018806
+    second: Mobile - Flappy Bird - Version 12 Sprites_26
+  - first:
+      213: 3255952901831296901
+    second: Mobile - Flappy Bird - Version 12 Sprites_27
+  - first:
+      213: -2306347922404996890
+    second: Mobile - Flappy Bird - Version 12 Sprites_28
+  - first:
+      213: -2036117585404127930
+    second: Mobile - Flappy Bird - Version 12 Sprites_29
+  - first:
+      213: 7398090637607482551
+    second: Mobile - Flappy Bird - Version 12 Sprites_30
+  - first:
+      213: -6254503077443945986
+    second: Mobile - Flappy Bird - Version 12 Sprites_31
+  - first:
+      213: -9122068741642065400
+    second: Mobile - Flappy Bird - Version 12 Sprites_32
+  - first:
+      213: -5779524432928888368
+    second: Mobile - Flappy Bird - Version 12 Sprites_33
+  - first:
+      213: -3849540773915607897
+    second: Mobile - Flappy Bird - Version 12 Sprites_34
+  - first:
+      213: -669485644550663331
+    second: Mobile - Flappy Bird - Version 12 Sprites_35
+  - first:
+      213: -6839551214000160459
+    second: Mobile - Flappy Bird - Version 12 Sprites_36
+  - first:
+      213: -5200080295645406206
+    second: Mobile - Flappy Bird - Version 12 Sprites_37
+  - first:
+      213: 5698634260912575106
+    second: Mobile - Flappy Bird - Version 12 Sprites_38
+  - first:
+      213: 3332850698273205949
+    second: Mobile - Flappy Bird - Version 12 Sprites_39
+  - first:
+      213: -1198990072333430829
+    second: Mobile - Flappy Bird - Version 12 Sprites_40
+  - first:
+      213: 1693697968634820213
+    second: Mobile - Flappy Bird - Version 12 Sprites_41
+  - first:
+      213: -3493463806159466461
+    second: Mobile - Flappy Bird - Version 12 Sprites_42
+  - first:
+      213: 230129452947892208
+    second: Mobile - Flappy Bird - Version 12 Sprites_43
+  - first:
+      213: 4495249375143456610
+    second: Mobile - Flappy Bird - Version 12 Sprites_44
+  - first:
+      213: 875370270028939571
+    second: Mobile - Flappy Bird - Version 12 Sprites_45
+  - first:
+      213: 7866015679261102617
+    second: Mobile - Flappy Bird - Version 12 Sprites_46
+  - first:
+      213: 1687489963281649004
+    second: Mobile - Flappy Bird - Version 12 Sprites_47
+  - first:
+      213: -1109645456820774316
+    second: Mobile - Flappy Bird - Version 12 Sprites_48
+  - first:
+      213: -6271202071706072646
+    second: Mobile - Flappy Bird - Version 12 Sprites_49
+  - first:
+      213: -5116034788630571233
+    second: Mobile - Flappy Bird - Version 12 Sprites_50
+  - first:
+      213: -8766236444106804462
+    second: Mobile - Flappy Bird - Version 12 Sprites_51
+  - first:
+      213: 6871738779096883307
+    second: Mobile - Flappy Bird - Version 12 Sprites_52
+  - first:
+      213: 3070810552657499006
+    second: Mobile - Flappy Bird - Version 12 Sprites_53
+  - first:
+      213: 3869963733588150954
+    second: Mobile - Flappy Bird - Version 12 Sprites_54
+  - first:
+      213: -7390568835900721232
+    second: Mobile - Flappy Bird - Version 12 Sprites_55
+  - first:
+      213: -60655448821867015
+    second: Mobile - Flappy Bird - Version 12 Sprites_56
+  - first:
+      213: 5612758388853481413
+    second: Mobile - Flappy Bird - Version 12 Sprites_57
+  - first:
+      213: -3946434259477265086
+    second: Mobile - Flappy Bird - Version 12 Sprites_58
+  - first:
+      213: 8939277565488714815
+    second: Mobile - Flappy Bird - Version 12 Sprites_59
+  - first:
+      213: 1933258764018161309
+    second: Mobile - Flappy Bird - Version 12 Sprites_60
+  - first:
+      213: 6502591859315168610
+    second: Mobile - Flappy Bird - Version 12 Sprites_61
+  - first:
+      213: -2498072389758807227
+    second: Mobile - Flappy Bird - Version 12 Sprites_62
+  - first:
+      213: -7023487787447730388
+    second: Mobile - Flappy Bird - Version 12 Sprites_63
+  - first:
+      213: -4514805892046077403
+    second: Mobile - Flappy Bird - Version 12 Sprites_64
+  - first:
+      213: 3731873145105348143
+    second: Mobile - Flappy Bird - Version 12 Sprites_65
+  - first:
+      213: -2975282748283157397
+    second: Mobile - Flappy Bird - Version 12 Sprites_66
+  - first:
+      213: 191857608284174513
+    second: Mobile - Flappy Bird - Version 12 Sprites_67
+  - first:
+      213: 6761572560169963571
+    second: Mobile - Flappy Bird - Version 12 Sprites_68
+  - first:
+      213: 6975628269904033469
+    second: Mobile - Flappy Bird - Version 12 Sprites_69
+  - first:
+      213: 1643155221146841879
+    second: Mobile - Flappy Bird - Version 12 Sprites_70
+  - first:
+      213: 7243472915562548880
+    second: Mobile - Flappy Bird - Version 12 Sprites_71
+  - first:
+      213: 2560398875629629500
+    second: Mobile - Flappy Bird - Version 12 Sprites_72
+  - first:
+      213: 3103654844608862705
+    second: Mobile - Flappy Bird - Version 12 Sprites_73
+  - first:
+      213: 1358095613425202594
+    second: Mobile - Flappy Bird - Version 12 Sprites_74
+  - first:
+      213: -6849601262952108319
+    second: Mobile - Flappy Bird - Version 12 Sprites_75
+  - first:
+      213: -7182406791380544474
+    second: Mobile - Flappy Bird - Version 12 Sprites_76
+  - first:
+      213: 9119582767357130973
+    second: Mobile - Flappy Bird - Version 12 Sprites_77
+  - first:
+      213: -3307974742545668543
+    second: Mobile - Flappy Bird - Version 12 Sprites_78
+  - first:
+      213: 1690715625158246458
+    second: Mobile - Flappy Bird - Version 12 Sprites_79
+  - first:
+      213: -5850029005157357063
+    second: Mobile - Flappy Bird - Version 12 Sprites_80
+  - first:
+      213: -1931683196948027878
+    second: Bird_Textures_0
+  - first:
+      213: -1692379038677451776
+    second: Bird_Textures_1
+  - first:
+      213: -6480915603880169130
+    second: Bird_Textures_2
+  - first:
+      213: 538395788188756689
+    second: Bird_Textures_3
+  - first:
+      213: 1487150086144803404
+    second: Bird_Textures_4
+  - first:
+      213: -5910932944251938967
+    second: Bird_Textures_5
+  - first:
+      213: 8718742222329053208
+    second: Bird_Textures_6
+  - first:
+      213: -1779463346730575288
+    second: Bird_Textures_7
+  - first:
+      213: 5995143583355564063
+    second: Bird_Textures_8
+  - first:
+      213: -5038174930225580149
+    second: Bird_Textures_9
+  - first:
+      213: -5037712387088976574
+    second: Bird_Textures_10
+  - first:
+      213: -3336861260094429728
+    second: Bird_Textures_11
+  - first:
+      213: -4091311271352779128
+    second: Bird_Textures_12
+  - first:
+      213: 3149266501215026406
+    second: Bird_Textures_13
+  - first:
+      213: 8030683938993766183
+    second: Bird_Textures_14
+  - first:
+      213: -664953511072277655
+    second: Bird_Textures_15
+  - first:
+      213: -4388785417565135728
+    second: Bird_Textures_16
+  - first:
+      213: 8502023235466954190
+    second: Bird_Textures_17
+  - first:
+      213: 7648719010140974517
+    second: Bird_Textures_18
+  - first:
+      213: -6135565270742819870
+    second: Bird_Textures_19
+  - first:
+      213: 5474013409749225933
+    second: Bird_Textures_20
+  - first:
+      213: -2200416379406521981
+    second: Bird_Textures_21
+  - first:
+      213: 9185194997775647235
+    second: Bird_Textures_22
+  - first:
+      213: -6704248606038750269
+    second: Bird_Textures_23
+  - first:
+      213: -8356721673089398756
+    second: Bird_Textures_24
+  - first:
+      213: 8637057876754267430
+    second: Bird_Textures_25
+  - first:
+      213: 2161020473692171559
+    second: Bird_Textures_26
+  - first:
+      213: -306923738733657705
+    second: Bird_Textures_27
+  - first:
+      213: 1344072276346713857
+    second: Bird_Textures_28
+  - first:
+      213: -8998813793174802572
+    second: Bird_Textures_29
+  - first:
+      213: 170584470340510821
+    second: Bird_Textures_30
+  - first:
+      213: 1192880254541767994
+    second: Bird_Textures_31
+  - first:
+      213: 3280190931959399104
+    second: Bird_Textures_32
+  - first:
+      213: -2817633721196400584
+    second: Bird_Textures_33
+  - first:
+      213: 2657643167773248219
+    second: Bird_Textures_34
+  - first:
+      213: -2495669023020598446
+    second: Bird_Textures_35
+  - first:
+      213: 2037969023805156849
+    second: Bird_Textures_36
+  - first:
+      213: 4092860585149165458
+    second: Bird_Textures_37
+  - first:
+      213: -3842217527361284780
+    second: Bird_Textures_38
+  - first:
+      213: -331813269873767989
+    second: Bird_Textures_39
+  - first:
+      213: 5027927157464866375
+    second: Bird_Textures_40
+  - first:
+      213: -1845990313403178007
+    second: Bird_Textures_41
+  - first:
+      213: 4068686059030334111
+    second: Bird_Textures_42
+  - first:
+      213: 5325250007718957879
+    second: Bird_Textures_43
+  - first:
+      213: 2523536146702523414
+    second: Bird_Textures_44
+  - first:
+      213: 8912685834066197080
+    second: Bird_Textures_45
+  - first:
+      213: -4420801244999303544
+    second: Bird_Textures_46
+  - first:
+      213: -6592420492649244349
+    second: Bird_Textures_47
+  - first:
+      213: 8531672326990908578
+    second: Bird_Textures_48
+  - first:
+      213: -4853858867690636622
+    second: Bird_Textures_49
+  - first:
+      213: 1685367148142775222
+    second: Bird_Textures_50
+  - first:
+      213: -1983453112150180306
+    second: Bird_Textures_51
+  - first:
+      213: -3823671723095610718
+    second: Bird_Textures_52
+  - first:
+      213: -6486451661201096163
+    second: Bird_Textures_53
+  - first:
+      213: -4803629849456038693
+    second: Bird_Textures_54
+  - first:
+      213: 1876060987744012496
+    second: Bird_Textures_55
+  - first:
+      213: -7418861174941586554
+    second: Bird_Textures_56
+  - first:
+      213: -8634742941873939942
+    second: Bird_Textures_57
+  - first:
+      213: 1531744613949444355
+    second: Bird_Textures_58
+  - first:
+      213: -7455244163133173725
+    second: Bird_Textures_59
+  - first:
+      213: 5495051207246969782
+    second: Bird_Textures_60
+  - first:
+      213: 7365151916993271608
+    second: Bird_Textures_61
+  - first:
+      213: 2748696503771059817
+    second: Bird_Textures_62
+  - first:
+      213: 1019487700155201731
+    second: Bird_Textures_63
+  - first:
+      213: -1535682190680618404
+    second: Bird_Textures_64
+  - first:
+      213: -9147360151936507790
+    second: Bird_Textures_65
+  - first:
+      213: -4913592739167781526
+    second: Bird_Textures_66
+  - first:
+      213: 5267077609949930431
+    second: Bird_Textures_67
+  - first:
+      213: 6174640075189377488
+    second: Bird_Textures_68
+  - first:
+      213: 7027679217819502535
+    second: Bird_Textures_69
+  - first:
+      213: 2214925810069864710
+    second: Bird_Textures_70
+  - first:
+      213: -2662516372756130015
+    second: Bird_Textures_71
+  - first:
+      213: -4074647881908332969
+    second: Bird_Textures_72
+  - first:
+      213: 1581791525910265363
+    second: Bird_Textures_73
+  - first:
+      213: 5059959224315066396
+    second: Bird_Textures_74
+  - first:
+      213: -3229716123363197053
+    second: Bird_Textures_75
+  - first:
+      213: -6283293350694106959
+    second: Bird_Textures_76
+  - first:
+      213: -51700128897265603
+    second: Bird_Textures_77
+  - first:
+      213: -7174892218993624371
+    second: Bird_Textures_78
+  - first:
+      213: 6241910403150958252
+    second: Bird_Textures_79
+  - first:
+      213: 9038614382894668663
+    second: Bird_Textures_80
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bird_Textures_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 144
+        height: 256
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16625bed584135e0800000000000000
+      internalID: -1931683196948027878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Textures_2
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 456
+        width: 168
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651bf6b78992f06a0800000000000000
+      internalID: -6480915603880169130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Textures_53
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 26
+        height: 160
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12cd51b49e7bf5a0800000000000000
+      internalID: -6486451661201096163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Textures_54
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 29
+        width: 26
+        height: 160
+      alignment: 2
+      pivot: {x: 0.5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdca5b64a14165db0800000000000000
+      internalID: -4803629849456038693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Textures_74
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18b24f0b16983640800000000000000
+      internalID: 5059959224315066396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Textures_75
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fb59d2c4ebd23d0800000000000000
+      internalID: -3229716123363197053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bird_Textures_76
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 9
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8cd44ecf14dc8a0800000000000000
+      internalID: -6283293350694106959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

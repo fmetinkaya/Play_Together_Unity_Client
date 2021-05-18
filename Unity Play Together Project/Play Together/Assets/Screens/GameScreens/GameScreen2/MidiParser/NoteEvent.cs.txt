@@ -1,0 +1,35 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace ConsoleApp1
+{
+    public class NoteEvents
+    {
+        public List<NoteEvent> noteEvents { get; set; }
+    }
+        public class NoteEvent
+    {
+        public enum State
+        {
+            ready,
+            tapped,
+            oldtapped,
+            missed
+        }
+        public int number { get; set; }
+        public float onTick { get; set; }
+        public float offTick { get; set; }
+        public float duration { get; set; }
+        public State state { get; set; }
+        public int line { get; set; }
+        public NoteEvent(int number, float onTick, float offTick)
+        {
+            this.number = number;
+            this.onTick = onTick / 1000f;
+            this.offTick = offTick / 1000f;
+            this.duration = (offTick - onTick)/1000f;
+            this.state = State.ready;
+        }
+    }
+}

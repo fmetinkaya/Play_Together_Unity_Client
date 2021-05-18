@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712062498475",
+    "project_id": "unitygames-c77ad",
+    "storage_bucket": "unitygames-c77ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712062498475:android:6f01310da76eefd0c669ee",
+        "android_client_info": {
+          "package_name": "com.metin.playtogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712062498475-6hppe1jl10me04k11us8q9uapauhc8sl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1MXq-pzbkIQXucOGY_VpNGKcE69G_Ss8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712062498475-6hppe1jl10me04k11us8q9uapauhc8sl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,60 @@
+﻿using Melanchall.DryWetMidi.Core;
+using Melanchall.DryWetMidi.Interaction;
+using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text.Json;
+using System.Threading.Tasks;
+
+
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static async Task Main()
+        {
+            NoteEvents noteEvents = new NoteEvents();
+            noteEvents.noteEvents = new List<NoteEvent>();
+
+            MidiFile file = MidiFile.Read("TonesAndI.mid");
+
+            IEnumerable<Note> notes = file.GetNotes();
+            TempoMap tempoMap = file.GetTempoMap();
+
+            List<Note> noteList = notes.ToList();
+
+            float lowestDuration = 10000f;
+
+            for (int i = 0; i < noteList.Count; i++)
+            {
+                MetricTimeSpan metricCurrentTime = noteList[i].TimeAs<MetricTimeSpan>(tempoMap);
+                MetricTimeSpan currentDurationTime = noteList[i].LengthAs<MetricTimeSpan>(tempoMap);
+                MetricTimeSpan metricNextTime;
+                if (i + 1 < noteList.Count) {
+                    metricNextTime = noteList[i + 1].TimeAs<MetricTimeSpan>(tempoMap); 
+                } else
+                {
+                    metricNextTime = metricCurrentTime + currentDurationTime;
+                }
+
+
+
+                float onTick = metricCurrentTime.TotalMicroseconds / 1000f;
+                float offTick = metricNextTime.TotalMicroseconds / 1000f;
+
+
+                if (lowestDuration > (offTick - onTick) / 1000)
+                    lowestDuration = (offTick - onTick) / 1000;
+                noteEvents.noteEvents.Add(new NoteEvent(i, onTick, offTick));
+                //Console.WriteLine("noteEvents.Add(new NoteEvent(" + i + ", " + onTick.ToString().Replace(",", ".") + "f, " + offTick.ToString().Replace(",", ".") + "f));");
+
+            }
+            Console.WriteLine(lowestDuration);
+
+            FileStream createStream = File.Create(AppDomain.CurrentDomain.BaseDirectory + @"\TonesAndI.json");
+            await JsonSerializer.SerializeAsync(createStream, noteEvents);
+        }
+
+    }
+}
